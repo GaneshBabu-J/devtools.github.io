@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to DevTools
 
-You can use the [editor on GitHub](https://github.com/GaneshBabu-J/devtools.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+DevTools is the world class enriching and growing company, which has a zeal to work with the classy companies in and around the world. Our Solution expertise hardwork is reciprocated to our partners and clients to increase their revenue.
 
 ### Markdown
 
