@@ -1,6 +1,6 @@
 ## Welcome to DevTools
 
-DevTools is the world class enriching and growing company, which has a zeal to work with the classy companies in and around the world. Our Solution expertise hardwork is reciprocated to our partners and clients to increase their revenue.
+DevTools is the world class enriching and growing company, which has a zeal to work with the classy companies in and around the world. Our Solution expertise hardwork is directly proportional increase in the revenue for our partners and clients.
 
 ### Markdown
 
